@@ -1,0 +1,920 @@
+{
+    "hits": [
+        {
+            "created_at": "2020-09-30T00:44:26.000Z",
+            "title": null,
+            "url": null,
+            "author": "martinald",
+            "points": null,
+            "story_text": null,
+            "comment_text": "OBS supports hardware encoding ironically on Intel integrated graphics, but doesn\u0026#x27;t on discrete graphics. So a much better graphics chipset in a macbook is likely to be a hinderance for this.",
+            "num_comments": null,
+            "story_id": 24633139,
+            "story_title": "OBS Studio 26.0",
+            "story_url": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0",
+            "parent_id": 24634259,
+            "created_at_i": 1601426666,
+            "_tags": [
+                "comment",
+                "author_martinald",
+                "story_24633139"
+            ],
+            "objectID": "24634720",
+            "_highlightResult": {
+                "author": {
+                    "value": "martinald",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "OBS supports hardware encoding ironically on Intel integrated graphics, but doesn't on discrete graphics. So a much better graphics chipset in a macbook \u003cem\u003eis\u003c/em\u003e likely to be a hinderance for this.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "OBS Studio 26.0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:44:08.000Z",
+            "title": null,
+            "url": null,
+            "author": "zestyping",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Thank you!  It\u0026#x27;s basic stuff like this that could so easily make a difference.\u003cp\u003e* Why do people have to appear in a random order?\u003cp\u003e* Why can\u0026#x27;t I tell at a glance who is speaking?\u003cp\u003e* Why can I only see 5 people if someone is sharing their screen?\u003cp\u003e* When someone is sharing their screen, why do I only get to see either their face or the screen, not both?\u003cp\u003e* Why can\u0026#x27;t I tell whether people are present\u0026#x2F;engaged when their video is off?\u003cp\u003e* Why can people be moved into breakout rooms only through a tedious and complex procedure, and why can it only be done by the host?\u003cp\u003e* Why can\u0026#x27;t I emoji-react to what someone is saying?\u003cp\u003e* Why can\u0026#x27;t I quickly answer a poll or join a team?",
+            "num_comments": null,
+            "story_id": 24610166,
+            "story_title": "Tips for immersive video calls",
+            "story_url": "https://www.benkuhn.net/vc/",
+            "parent_id": 24634625,
+            "created_at_i": 1601426648,
+            "_tags": [
+                "comment",
+                "author_zestyping",
+                "story_24610166"
+            ],
+            "objectID": "24634719",
+            "_highlightResult": {
+                "author": {
+                    "value": "zestyping",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Thank you!  \u003cem\u003eIt's\u003c/em\u003e basic stuff like this that could so easily make a difference.\u003cp\u003e* Why do people have to appear in a random order?\u003cp\u003e* Why can't I tell at a glance who is speaking?\u003cp\u003e* Why can I only see 5 people if someone is sharing their screen?\u003cp\u003e* When someone is sharing their screen, why do I only get to see either their face or the screen, not both?\u003cp\u003e* Why can't I tell whether people are present/engaged when their video is off?\u003cp\u003e* Why can people be moved into breakout rooms only through a tedious and complex procedure, and why can it only be done by the host?\u003cp\u003e* Why can't I emoji-react to what someone is saying?\u003cp\u003e* Why can't I quickly answer a poll or join a team?",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Tips for immersive video calls",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.benkuhn.net/vc/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:43:55.000Z",
+            "title": null,
+            "url": null,
+            "author": "Scoundreller",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; Why can\u0026#x27;t I tell at a glance whether I\u0026#x27;m muted or not? Why do I have to find the mute button every time? Everyone has a keyboard, why are we avoiding it like the plague?\u003cp\u003eWould be nice if they just drew a giant red X when you’re muted.\u003cp\u003eMy gripe is multiple screens while presenting. Give me the choice to show whichever screen my mouse is on.",
+            "num_comments": null,
+            "story_id": 24610166,
+            "story_title": "Tips for immersive video calls",
+            "story_url": "https://www.benkuhn.net/vc/",
+            "parent_id": 24634625,
+            "created_at_i": 1601426635,
+            "_tags": [
+                "comment",
+                "author_Scoundreller",
+                "story_24610166"
+            ],
+            "objectID": "24634718",
+            "_highlightResult": {
+                "author": {
+                    "value": "Scoundreller",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; Why can't I tell at a glance whether I'm muted or not? Why do I have to find the mute button every time? Everyone has a keyboard, why are we avoiding it like the plague?\u003cp\u003eWould be nice if they just drew a giant red X when you’re muted.\u003cp\u003eMy gripe \u003cem\u003eis\u003c/em\u003e multiple screens while presenting. Give me the choice to show whichever screen my mouse \u003cem\u003eis\u003c/em\u003e on.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Tips for immersive video calls",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.benkuhn.net/vc/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:43:36.000Z",
+            "title": null,
+            "url": null,
+            "author": "tyingq",
+            "points": null,
+            "story_text": null,
+            "comment_text": "That\u0026#x27;s a good call-out. It\u0026#x27;s natural for me, but I do see people struggle with bit manipulation regularly. A plain language intro is really useful.",
+            "num_comments": null,
+            "story_id": 24631978,
+            "story_title": "Summary of all the MIT Introduction to Algorithms lectures (2009)",
+            "story_url": "https://catonmat.net/summary-of-mit-introduction-to-algorithms",
+            "parent_id": 24633510,
+            "created_at_i": 1601426616,
+            "_tags": [
+                "comment",
+                "author_tyingq",
+                "story_24631978"
+            ],
+            "objectID": "24634716",
+            "_highlightResult": {
+                "author": {
+                    "value": "tyingq",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "That's a good call-out. \u003cem\u003eIt's\u003c/em\u003e natural for me, but I do see people struggle with bit manipulation regularly. A plain language intro is really useful.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Summary of all the MIT Introduction to Algorithms lectures (2009)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://catonmat.net/summary-of-mit-introduction-to-algorithms",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:43:24.000Z",
+            "title": null,
+            "url": null,
+            "author": "kitteh",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Could you drop some IP prefixes you believe are hijacked and timestamps? I can probably help out and bring this to folks who can take action.\u003cp\u003e(I have to deal with hijacks frequently and part of our investigation is beating on folks who have permissive filters and pressuring their peers to improve things)",
+            "num_comments": null,
+            "story_id": 24626388,
+            "story_title": "Identifying Airtel middleboxes that censor HTTPS traffic",
+            "story_url": "http://iamkush.me/sni-airtel/",
+            "parent_id": 24631054,
+            "created_at_i": 1601426604,
+            "_tags": [
+                "comment",
+                "author_kitteh",
+                "story_24626388"
+            ],
+            "objectID": "24634715",
+            "_highlightResult": {
+                "author": {
+                    "value": "kitteh",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Could you drop some IP prefixes you believe are hijacked and timestamps? I can probably help out and bring this to folks who can take action.\u003cp\u003e(I have to deal with hijacks frequently and part of our investigation \u003cem\u003eis\u003c/em\u003e beating on folks who have permissive filters and pressuring their peers to improve things)",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Identifying Airtel middleboxes that censor HTTPS traffic",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "http://iamkush.me/sni-airtel/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:43:22.000Z",
+            "title": null,
+            "url": null,
+            "author": "searchableguy",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; But I like that it\u0026#x27;s step-by-step, and things we could actually do. It doesn\u0026#x27;t have black holes.\u003cp\u003e\u0026gt; And it\u0026#x27;s quick. It\u0026#x27;s not a 500 page devops manual.\u003cp\u003e\u0026gt; And it\u0026#x27;s rapid return. You do it, and you see something happen.\u003cp\u003eScrimba is exactly that.",
+            "num_comments": null,
+            "story_id": 24633199,
+            "story_title": "Python for Kids: A Comprehensive Python Development Tutorial for Kids",
+            "story_url": "https://github.com/mytechnotalent/Python-For-Kids",
+            "parent_id": 24634685,
+            "created_at_i": 1601426602,
+            "_tags": [
+                "comment",
+                "author_searchableguy",
+                "story_24633199"
+            ],
+            "objectID": "24634714",
+            "_highlightResult": {
+                "author": {
+                    "value": "searchableguy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; But I like that \u003cem\u003eit's\u003c/em\u003e step-by-step, and things we could actually do. It doesn't have black holes.\u003cp\u003e\u0026gt; And \u003cem\u003eit's\u003c/em\u003e quick. \u003cem\u003eIt's\u003c/em\u003e not a 500 page devops manual.\u003cp\u003e\u0026gt; And \u003cem\u003eit's\u003c/em\u003e rapid return. You do it, and you see something happen.\u003cp\u003eScrimba is exactly that.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Python for Kids: A Comprehensive Python Development Tutorial for Kids",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/mytechnotalent/Python-For-Kids",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:43:17.000Z",
+            "title": null,
+            "url": null,
+            "author": "Skaven",
+            "points": null,
+            "story_text": null,
+            "comment_text": "That is really tough. I don\u0026#x27;t have an answer, but you might enjoy these loose thoughts.\u003cp\u003eIn the annals of technocracy, people can\u0026#x27;t stand politics anymore and so they send their toasters and refrigerators to do all that.\nThese appliances can not be bought  and become capable politicians. Machines pay taxes and the hirachy of ownership, human owns machine, is still clear but the dominance hirachy becomes more and more unclear.\u003cp\u003eHere the toaster can become the president, but he is still send away from his human who could be on the lower end of society. Of course every human is on welfare paid by the machines and everyone is happy in the technocratic society, until the human machine integration takes of and existenz becomes an inconceivable horror.\u003cp\u003eSo the owner of the machine has to be responsible of the machine or the technocracy goes rogue and enslaves humanity. Then owning or instructing the enslaver device can be made illegal. Even if your toaster decides to enslave humanity, you will have to answer for it, even if you don\u0026#x27;t care or never bothered with it. You willingly gave it your political powers and it operates in your absence on your behalf. Not even death can eliviate you from this responsibility and with machine integration death isn\u0026#x27;t even an option anymore.\u003cp\u003eBut we missed our chance of Technocracy and powered unhinged through all industrial revolutions. \nMachines don\u0026#x27;t have to pay taxes for their labor, but they have become employers already. \nWe lost the ability to pin this on the owner. All liability is transfered to the user and nobody owns the company or the machine anymore.\u003cp\u003eThe user agrees to the conditions and takes over all liability.\u003cp\u003eSo by agreeing to use the enslaver you will enslave yourself. If this is forbidden by law, you are breaking that particular law.\u003cp\u003eI don\u0026#x27;t see a way around it.",
+            "num_comments": null,
+            "story_id": 24632840,
+            "story_title": "Ask HN: On what grounds would a device that treats you as its slave be illegal?",
+            "story_url": null,
+            "parent_id": 24633373,
+            "created_at_i": 1601426597,
+            "_tags": [
+                "comment",
+                "author_Skaven",
+                "story_24632840"
+            ],
+            "objectID": "24634713",
+            "_highlightResult": {
+                "author": {
+                    "value": "Skaven",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "That \u003cem\u003eis\u003c/em\u003e really tough. I don't have an answer, but you might enjoy these loose thoughts.\u003cp\u003eIn the annals of technocracy, people can't stand politics anymore and so they send their toasters and refrigerators to do all that.\nThese appliances can not be bought  and become capable politicians. Machines pay taxes and the hirachy of ownership, human owns machine, \u003cem\u003eis\u003c/em\u003e still clear but the dominance hirachy becomes more and more unclear.\u003cp\u003eHere the toaster can become the president, but he \u003cem\u003eis\u003c/em\u003e still send away from his human who could be on the lower end of society. Of course every human \u003cem\u003eis\u003c/em\u003e on welfare paid by the machines and everyone \u003cem\u003eis\u003c/em\u003e happy in the technocratic society, until the human machine integration takes of and existenz becomes an inconceivable horror.\u003cp\u003eSo the owner of the machine has to be responsible of the machine or the technocracy goes rogue and enslaves humanity. Then owning or instructing the enslaver device can be made illegal. Even if your toaster decides to enslave humanity, you will have to answer for it, even if you don't care or never bothered with it. You willingly gave it your political powers and it operates in your absence on your behalf. Not even death can eliviate you from this responsibility and with machine integration death \u003cem\u003eis\u003c/em\u003en't even an option anymore.\u003cp\u003eBut we missed our chance of Technocracy and powered unhinged through all industrial revolutions. \nMachines don't have to pay taxes for their labor, but they have become employers already. \nWe lost the ability to pin this on the owner. All liability \u003cem\u003eis\u003c/em\u003e transfered to the user and nobody owns the company or the machine anymore.\u003cp\u003eThe user agrees to the conditions and takes over all liability.\u003cp\u003eSo by agreeing to use the enslaver you will enslave yourself. If this \u003cem\u003eis\u003c/em\u003e forbidden by law, you are breaking that particular law.\u003cp\u003eI don't see a way around it.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Ask HN: On what grounds would a device that treats you as its slave be illegal?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:43:06.000Z",
+            "title": null,
+            "url": null,
+            "author": "dmerrick",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Does anyone have suggestions for running OBS in the cloud?\u003cp\u003eI have a project that is designed to run 24\u0026#x2F;7 and it would be really nice if I could use a cloud server instead of a computer on my home network.",
+            "num_comments": null,
+            "story_id": 24633139,
+            "story_title": "OBS Studio 26.0",
+            "story_url": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0",
+            "parent_id": 24633139,
+            "created_at_i": 1601426586,
+            "_tags": [
+                "comment",
+                "author_dmerrick",
+                "story_24633139"
+            ],
+            "objectID": "24634711",
+            "_highlightResult": {
+                "author": {
+                    "value": "dmerrick",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Does anyone have suggestions for running OBS in the cloud?\u003cp\u003eI have a project that \u003cem\u003eis\u003c/em\u003e designed to run 24/7 and it would be really nice if I could use a cloud server instead of a computer on my home network.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "OBS Studio 26.0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:42:47.000Z",
+            "title": null,
+            "url": null,
+            "author": "jonahx",
+            "points": null,
+            "story_text": null,
+            "comment_text": "The moderation here is very good, but I think cultural self-selection is a big factor too.  Speaking broadly, it attracts technical, logical people who share values and standards around reasoned debate.  I don\u0026#x27;t see that part scaling to society at large.",
+            "num_comments": null,
+            "story_id": 24627363,
+            "story_title": "Social Cooling (2017)",
+            "story_url": "https://www.socialcooling.com/",
+            "parent_id": 24633722,
+            "created_at_i": 1601426567,
+            "_tags": [
+                "comment",
+                "author_jonahx",
+                "story_24627363"
+            ],
+            "objectID": "24634710",
+            "_highlightResult": {
+                "author": {
+                    "value": "jonahx",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "The moderation here \u003cem\u003eis\u003c/em\u003e very good, but I think cultural self-selection \u003cem\u003eis\u003c/em\u003e a big factor too.  Speaking broadly, it attracts technical, logical people who share values and standards around reasoned debate.  I don't see that part scaling to society at large.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Social Cooling (2017)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.socialcooling.com/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:42:46.000Z",
+            "title": null,
+            "url": null,
+            "author": "nwallin",
+            "points": null,
+            "story_text": null,
+            "comment_text": "That video is about dimethylmercury, which is chemically completely different than the mercury in fluorescent lights. That\u0026#x27;s like saying DNA is bad because is has carbon and nitrogen in it, which is what cyanide is made out of.\u003cp\u003e\u003ca href=\"https:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2F;Dimethylmercury\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2F;Dimethylmercury\u003c/a\u003e",
+            "num_comments": null,
+            "story_id": 24627877,
+            "story_title": "Dual-flush toilets 'wasting more water than they save'",
+            "story_url": "https://www.theguardian.com/environment/2020/sep/29/dual-flush-toilets-wasting-more-water-than-they-save",
+            "parent_id": 24634614,
+            "created_at_i": 1601426566,
+            "_tags": [
+                "comment",
+                "author_nwallin",
+                "story_24627877"
+            ],
+            "objectID": "24634709",
+            "_highlightResult": {
+                "author": {
+                    "value": "nwallin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "That video \u003cem\u003eis\u003c/em\u003e about dimethylmercury, which \u003cem\u003eis\u003c/em\u003e chemically completely different than the mercury in fluorescent lights. That's like saying DNA \u003cem\u003eis\u003c/em\u003e bad because \u003cem\u003eis\u003c/em\u003e has carbon and nitrogen in it, which \u003cem\u003eis\u003c/em\u003e what cyanide \u003cem\u003eis\u003c/em\u003e made out of.\u003cp\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Dimethylmercury\" rel=\"nofollow\"\u003ehttps://en.wikipedia.org/wiki/Dimethylmercury\u003c/a\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Dual-flush toilets 'wasting more water than they save'",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.theguardian.com/environment/2020/sep/29/dual-flush-toilets-wasting-more-water-than-they-save",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:42:37.000Z",
+            "title": null,
+            "url": null,
+            "author": "pleasantEnough",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Right on, thanks for the offer; I\u0026#x27;d love that. The site is a single page pre-login and it\u0026#x27;s at: \u003ca href=\"https:\u0026#x2F;\u0026#x2F;www.userinterviewexchange.com\u0026#x2F;\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;www.userinterviewexchange.com\u0026#x2F;\u003c/a\u003e",
+            "num_comments": null,
+            "story_id": 24634673,
+            "story_title": "Anyone willing to “trade” customer discovery interviews?",
+            "story_url": null,
+            "parent_id": 24634693,
+            "created_at_i": 1601426557,
+            "_tags": [
+                "comment",
+                "author_pleasantEnough",
+                "story_24634673"
+            ],
+            "objectID": "24634708",
+            "_highlightResult": {
+                "author": {
+                    "value": "pleasantEnough",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Right on, thanks for the offer; I'd love that. The site \u003cem\u003eis\u003c/em\u003e a single page pre-login and it's at: \u003ca href=\"https://www.userinterviewexchange.com/\" rel=\"nofollow\"\u003ehttps://www.userinterviewexchange.com/\u003c/a\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Anyone willing to “trade” customer discovery interviews?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:41:45.000Z",
+            "title": null,
+            "url": null,
+            "author": "MaysonL",
+            "points": null,
+            "story_text": null,
+            "comment_text": "According to their website[0]\ntheir current balance is $97,012.47 USD,\nand their annual budget is ~ $47,327.66 USD, so they\u0026#x27;re probably not too badly unerfunded.\u003cp\u003e[0] \u003ca href=\"https:\u0026#x2F;\u0026#x2F;opencollective.com\u0026#x2F;obsproject#section-budget\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;opencollective.com\u0026#x2F;obsproject#section-budget\u003c/a\u003e",
+            "num_comments": null,
+            "story_id": 24633139,
+            "story_title": "OBS Studio 26.0",
+            "story_url": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0",
+            "parent_id": 24633943,
+            "created_at_i": 1601426505,
+            "_tags": [
+                "comment",
+                "author_MaysonL",
+                "story_24633139"
+            ],
+            "objectID": "24634703",
+            "_highlightResult": {
+                "author": {
+                    "value": "MaysonL",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "According to their website[0]\ntheir current balance \u003cem\u003eis\u003c/em\u003e $97,012.47 USD,\nand their annual budget \u003cem\u003eis\u003c/em\u003e ~ $47,327.66 USD, so they're probably not too badly unerfunded.\u003cp\u003e[0] \u003ca href=\"https://opencollective.com/obsproject#section-budget\" rel=\"nofollow\"\u003ehttps://opencollective.com/obsproject#section-budget\u003c/a\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "OBS Studio 26.0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:40:59.000Z",
+            "title": null,
+            "url": null,
+            "author": "samatman",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Telephone anxiety is easy to create.\u003cp\u003eTake a kid, who has a phone, and a peer group with elaborate customs around using it, which include never, ever calling someone without texting first.  \u003ci\u003eMaybe\u003c/i\u003e your best friend and main squeeze, as a special privilege.\u003cp\u003eThen the parent insists the child pick up the phone whenever they call. Also, there are spam calls, and the occasional genuine emergency.\u003cp\u003ePresto, the phone ringing is automatically Bad News, and as the child grows to adulthood, they associate phone calls with trouble, and subconsciously feel like an aggressive, bad person, if they have to make one.",
+            "num_comments": null,
+            "story_id": 24627982,
+            "story_title": "The life and death of email read tracking",
+            "story_url": "https://missiveapp.com/blog/life-and-death-of-read-tracking",
+            "parent_id": 24634065,
+            "created_at_i": 1601426459,
+            "_tags": [
+                "comment",
+                "author_samatman",
+                "story_24627982"
+            ],
+            "objectID": "24634701",
+            "_highlightResult": {
+                "author": {
+                    "value": "samatman",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Telephone anxiety \u003cem\u003eis\u003c/em\u003e easy to create.\u003cp\u003eTake a kid, who has a phone, and a peer group with elaborate customs around using it, which include never, ever calling someone without texting first.  \u003ci\u003eMaybe\u003c/i\u003e your best friend and main squeeze, as a special privilege.\u003cp\u003eThen the parent insists the child pick up the phone whenever they call. Also, there are spam calls, and the occasional genuine emergency.\u003cp\u003ePresto, the phone ringing \u003cem\u003eis\u003c/em\u003e automatically Bad News, and as the child grows to adulthood, they associate phone calls with trouble, and subconsciously feel like an aggressive, bad person, if they have to make one.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "The life and death of email read tracking",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://missiveapp.com/blog/life-and-death-of-read-tracking",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:40:19.000Z",
+            "title": null,
+            "url": null,
+            "author": "jandrewrogers",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Economic mobility doesn\u0026#x27;t measure relative financial position either. Economic mobility only indicates position relative to a (highly variable) income distribution within a country. A \u0026quot;high\u0026quot; income mobility does not imply high relative changes in financial position, nor vice versa.\u003cp\u003eAt the extreme, very small differences in relative income can make you \u0026quot;highly mobile\u0026quot; even though you\u0026#x27;ve barely moved your relative financial position. This is seen in smaller industrialized countries with very compressed wage distributions. People in low mobility countries can have better financial outcomes in both relative and absolute terms depending on the mathematical distribution function, and do in practice.\u003cp\u003eThe term \u0026quot;economic mobility\u0026quot; is widely used to push misleading narratives precisely because most people don\u0026#x27;t understand what it measures.",
+            "num_comments": null,
+            "story_id": 24606191,
+            "story_title": "Typical U.S. full-time salary would be $102k if wages had kept up with growth",
+            "story_url": "https://www.businessinsider.com/median-us-worker-salaries-could-have-been-102000-without-inequality-2020-9",
+            "parent_id": 24607894,
+            "created_at_i": 1601426419,
+            "_tags": [
+                "comment",
+                "author_jandrewrogers",
+                "story_24606191"
+            ],
+            "objectID": "24634698",
+            "_highlightResult": {
+                "author": {
+                    "value": "jandrewrogers",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Economic mobility doesn't measure relative financial position either. Economic mobility only indicates position relative to a (highly variable) income distribution within a country. A \u0026quot;high\u0026quot; income mobility does not imply high relative changes in financial position, nor vice versa.\u003cp\u003eAt the extreme, very small differences in relative income can make you \u0026quot;highly mobile\u0026quot; even though you've barely moved your relative financial position. This \u003cem\u003eis\u003c/em\u003e seen in smaller industrialized countries with very compressed wage distributions. People in low mobility countries can have better financial outcomes in both relative and absolute terms depending on the mathematical distribution function, and do in practice.\u003cp\u003eThe term \u0026quot;economic mobility\u0026quot; \u003cem\u003eis\u003c/em\u003e widely used to push misleading narratives precisely because most people don't understand what it measures.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Typical U.S. full-time salary would be $102k if wages had kept up with growth",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.businessinsider.com/median-us-worker-salaries-could-have-been-102000-without-inequality-2020-9",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:40:06.000Z",
+            "title": null,
+            "url": null,
+            "author": "CincinnatiMan",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Is going to college the cause of someone earning more? Or is the type of person that goes to college someone who inherently will earn more money regardless of the education level they receive? Seems to me if you took Harvard students (and not the legacy\u0026#x2F;donor admits) and had them stop at a high school education, they\u0026#x27;d still do way better than other non-college graduates.",
+            "num_comments": null,
+            "story_id": 24623780,
+            "story_title": "US college enrollments are falling, except for graduate degrees",
+            "story_url": "https://qz.com/1909880/us-college-enrollments-are-falling-except-for-graduate-degrees/",
+            "parent_id": 24630363,
+            "created_at_i": 1601426406,
+            "_tags": [
+                "comment",
+                "author_CincinnatiMan",
+                "story_24623780"
+            ],
+            "objectID": "24634697",
+            "_highlightResult": {
+                "author": {
+                    "value": "CincinnatiMan",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u003cem\u003eIs\u003c/em\u003e going to college the cause of someone earning more? Or \u003cem\u003eis\u003c/em\u003e the type of person that goes to college someone who inherently will earn more money regardless of the education level they receive? Seems to me if you took Harvard students (and not the legacy/donor admits) and had them stop at a high school education, they'd still do way better than other non-college graduates.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "US college enrollments are falling, except for graduate degrees",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://qz.com/1909880/us-college-enrollments-are-falling-except-for-graduate-degrees/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:40:02.000Z",
+            "title": null,
+            "url": null,
+            "author": "GuB-42",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I didn\u0026#x27;t see the details but it looks like both ITER and Sparc are both Tokamaks performing D-T fusion.\u003cp\u003eAnd in fact, it looks like Sparc is more of an exercise in making fusion reactors cheaper, most notably by using different magnets.\nITER is more about validating the concepts, with no regard for the price. Besides the fusion itself, ITER will study how to inject fuel and evacuate the waste products as it is running. They will also tackle the problem of producing the large quantities of tritium a fusion plant requires.\u003cp\u003eSo, my understanding is that Sparc is not intended to make ITER obsolete, but instead tackle a different problem. If commercial fusion reactors happen one day, I expect they will have a bit of both.",
+            "num_comments": null,
+            "story_id": 24629828,
+            "story_title": "Compact nuclear fusion reactor is 'very likely to work,' studies suggest",
+            "story_url": "https://www.nytimes.com/2020/09/29/climate/nuclear-fusion-reactor.html",
+            "parent_id": 24633292,
+            "created_at_i": 1601426402,
+            "_tags": [
+                "comment",
+                "author_GuB-42",
+                "story_24629828"
+            ],
+            "objectID": "24634696",
+            "_highlightResult": {
+                "author": {
+                    "value": "GuB-42",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "I didn't see the details but it looks like both ITER and Sparc are both Tokamaks performing D-T fusion.\u003cp\u003eAnd in fact, it looks like Sparc \u003cem\u003eis\u003c/em\u003e more of an exercise in making fusion reactors cheaper, most notably by using different magnets.\nITER \u003cem\u003eis\u003c/em\u003e more about validating the concepts, with no regard for the price. Besides the fusion itself, ITER will study how to inject fuel and evacuate the waste products as it \u003cem\u003eis\u003c/em\u003e running. They will also tackle the problem of producing the large quantities of tritium a fusion plant requires.\u003cp\u003eSo, my understanding \u003cem\u003eis\u003c/em\u003e that Sparc \u003cem\u003eis\u003c/em\u003e not intended to make ITER obsolete, but instead tackle a different problem. If commercial fusion reactors happen one day, I expect they will have a bit of both.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Compact nuclear fusion reactor \u003cem\u003eis\u003c/em\u003e 'very likely to work,' studies suggest",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_url": {
+                    "value": "https://www.nytimes.com/2020/09/29/climate/nuclear-fusion-reactor.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:39:30.000Z",
+            "title": null,
+            "url": null,
+            "author": "lightgreen",
+            "points": null,
+            "story_text": null,
+            "comment_text": "This is tautology.\u003cp\u003e- Children need protection. They are eating children.\u003cp\u003e- Who are \u0026quot;they\u0026quot; here?\u003cp\u003e- Children eaters. So by definition that\u0026#x27;s what they\u0026#x27;ll do. It isn\u0026#x27;t a judgment. It is definitionally correct.\u003cp\u003eCf\u003cp\u003e- Freedom is fragile. I won\u0026#x27;t give one inch here because they will shatter it.\u003cp\u003e- Who are \u0026quot;they\u0026quot; here?\u003cp\u003e- People who don\u0026#x27;t like freedom. So by definition that\u0026#x27;s what they\u0026#x27;ll do. It isn\u0026#x27;t a judgment. It is definitionally correct.",
+            "num_comments": null,
+            "story_id": 24627363,
+            "story_title": "Social Cooling (2017)",
+            "story_url": "https://www.socialcooling.com/",
+            "parent_id": 24633901,
+            "created_at_i": 1601426370,
+            "_tags": [
+                "comment",
+                "author_lightgreen",
+                "story_24627363"
+            ],
+            "objectID": "24634694",
+            "_highlightResult": {
+                "author": {
+                    "value": "lightgreen",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "This \u003cem\u003eis\u003c/em\u003e tautology.\u003cp\u003e- Children need protection. They are eating children.\u003cp\u003e- Who are \u0026quot;they\u0026quot; here?\u003cp\u003e- Children eaters. So by definition that's what they'll do. It \u003cem\u003eis\u003c/em\u003en't a judgment. It \u003cem\u003eis\u003c/em\u003e definitionally correct.\u003cp\u003eCf\u003cp\u003e- Freedom \u003cem\u003eis\u003c/em\u003e fragile. I won't give one inch here because they will shatter it.\u003cp\u003e- Who are \u0026quot;they\u0026quot; here?\u003cp\u003e- People who don't like freedom. So by definition that's what they'll do. It \u003cem\u003eis\u003c/em\u003en't a judgment. It \u003cem\u003eis\u003c/em\u003e definitionally correct.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Social Cooling (2017)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.socialcooling.com/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:39:22.000Z",
+            "title": null,
+            "url": null,
+            "author": "ev1",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I\u0026#x27;d be happy to give you a 10 minute-of-effort review your product if you want, as long as it doesn\u0026#x27;t require installation or payment.",
+            "num_comments": null,
+            "story_id": 24634673,
+            "story_title": "Anyone willing to “trade” customer discovery interviews?",
+            "story_url": null,
+            "parent_id": 24634673,
+            "created_at_i": 1601426362,
+            "_tags": [
+                "comment",
+                "author_ev1",
+                "story_24634673"
+            ],
+            "objectID": "24634693",
+            "_highlightResult": {
+                "author": {
+                    "value": "ev1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "I'd be happy to give you a 10 minute-of-effort review your product if you want, as long as it doesn't require \u003cem\u003eins\u003c/em\u003etallation or payment.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Anyone willing to “trade” customer discovery interviews?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:39:11.000Z",
+            "title": null,
+            "url": null,
+            "author": "Aerroon",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Quality not being as high mostly means that you have to bump up the bitrate. For local recording it\u0026#x27;ll produce larger files and for streaming it\u0026#x27;ll require a better connection (if the streaming site allows higher bitrate). That still makes it very much usable though.",
+            "num_comments": null,
+            "story_id": 24633139,
+            "story_title": "OBS Studio 26.0",
+            "story_url": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0",
+            "parent_id": 24634579,
+            "created_at_i": 1601426351,
+            "_tags": [
+                "comment",
+                "author_Aerroon",
+                "story_24633139"
+            ],
+            "objectID": "24634692",
+            "_highlightResult": {
+                "author": {
+                    "value": "Aerroon",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Quality not being as high \u003cem\u003emos\u003c/em\u003etly means that you have to bump up the bitrate. For local recording it'll produce larger files and for streaming it'll require a better connection (if the streaming site allows higher bitrate). That still makes it very much usable though.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "OBS Studio 26.0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-09-30T00:38:56.000Z",
+            "title": null,
+            "url": null,
+            "author": "pornel",
+            "points": null,
+            "story_text": null,
+            "comment_text": "DevTools is the killer feature.\u003cp\u003eI\u0026#x27;ve developed a Gtk GUI in Rust recently. It wasn\u0026#x27;t bad, but I probably won\u0026#x27;t use it ever again. When I\u0026#x27;m debugging a UI, I want to right-click it, select Inspect, and be able to tweak everything \u003ci\u003elive\u003c/i\u003e.\u003cp\u003eDevTools is such a force multiplier, that I\u0026#x27;m confident I can quickly and reliably develop a whole GUI from scratch, with custom layout animations and bells and whistles using JS+CSS. I have zero confidence in doing anything in Gtk or Cocoa beyond dumping static pre-built controls in a window. The cycle of editing blindly, recompiling, and re-running is the old paradigm that I don\u0026#x27;t want to return to.",
+            "num_comments": null,
+            "story_id": 24631611,
+            "story_title": "Rust 2021: GUI",
+            "story_url": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html",
+            "parent_id": 24633297,
+            "created_at_i": 1601426336,
+            "_tags": [
+                "comment",
+                "author_pornel",
+                "story_24631611"
+            ],
+            "objectID": "24634691",
+            "_highlightResult": {
+                "author": {
+                    "value": "pornel",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "DevTools \u003cem\u003eis\u003c/em\u003e the killer feature.\u003cp\u003eI've developed a Gtk GUI in Rust recently. It wasn't bad, but I probably won't use it ever again. When I'm debugging a UI, I want to right-click it, select Inspect, and be able to tweak everything \u003ci\u003elive\u003c/i\u003e.\u003cp\u003eDevTools \u003cem\u003eis\u003c/em\u003e such a force multiplier, that I'm confident I can quickly and reliably develop a whole GUI from scratch, with custom layout animations and bells and whistles using JS+CSS. I have zero confidence in doing anything in Gtk or Cocoa beyond dumping static pre-built controls in a window. The cycle of editing blindly, recompiling, and re-running \u003cem\u003eis\u003c/em\u003e the old paradigm that I don't want to return to.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Rust 2021: GUI",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 149412,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "exhaustiveNbHits": false,
+    "query": "ios",
+    "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026query=ios",
+    "processingTimeMS": 19
+}
